@@ -7,7 +7,8 @@
 
 ### Kyle
 
-- [ ] Get homeassistant dev container working locally
+- [X] Get homeassistant dev container working locally
+- [ ] Investigate and shell out `coordinator.py`
 
 ### Eesha
 
