@@ -20,11 +20,11 @@
 What we need:
 - Integration 
 	- Domain 
-		- Setup
+		- Setup - Kyle done
 	- Manifest - jacob done
 	- Device files `device_name.py`
 		- List of devices
-	- Service file
+	- Service file - Not needed, we are not doing any custom actions (yet)
 	- Data update coordinator `coordinator.py` (Kyle investigating now)
 - Rhino
 	- discovery
