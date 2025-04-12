@@ -3,7 +3,7 @@
 ## TODOs:
 
 ### Jacob
-- [ ] Get homeassistant dev container working locally
+- [X] Get homeassistant dev container working locally
 
 ### Kyle
 
@@ -21,7 +21,7 @@ What we need:
 - Integration 
 	- Domain 
 		- Setup
-	- Manifest
+	- Manifest - jacob done
 	- Device files `device_name.py`
 		- List of devices
 	- Service file
