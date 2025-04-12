@@ -24,7 +24,7 @@ What we need:
 	- Device files `device_name.py`
 		- List of devices
 	- Service file
-	- Data update coordinator `coordinator.py`
+	- Data update coordinator `coordinator.py` (Kyle investigating now)
 - Rhino
 	- discovery
 		- SSDP vs mDNS?
