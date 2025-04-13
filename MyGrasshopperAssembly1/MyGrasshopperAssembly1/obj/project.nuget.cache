@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "m45wuPP2JDc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EJain\\source\\repos\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\Rhino_Hub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EJain\\.nuget\\packages\\grasshopper\\7.0.20314.3001\\grasshopper.7.0.20314.3001.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\grasshopper\\8.0.23304.9001\\grasshopper.8.0.23304.9001.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\rhinocommon\\7.0.20314.3001\\rhinocommon.7.0.20314.3001.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\rhinocommon\\8.0.23304.9001\\rhinocommon.8.0.23304.9001.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\EJain\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
